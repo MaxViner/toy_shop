@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="774028ca-37be-4c49-a43a-4442ea3dc6aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToyStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toy_shop.iml" afterDir="false" />
+    <list default="true" id="774028ca-37be-4c49-a43a-4442ea3dc6aa" name="Changes" comment="create_projecr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680791764601</updated>
     </task>
+    <task id="LOCAL-00001" summary="create_projecr">
+      <created>1680794958888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680794958888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create_projecr" />
+    <option name="LAST_COMMIT_MESSAGE" value="create_projecr" />
   </component>
 </project>
